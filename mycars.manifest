@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.2f1
+CRC: 3175385606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 461b37dd1b79e930206982671eda001b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44128075a63a19f154027632d796f78e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 430ae0c4f76b041ffc122b23e2508ae8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/70WGMOOBQ4RBWOBTVJHN3RS2A.obj
+Dependencies: []

@@ -1,0 +1,8 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.2f1
+CRC: 1563943444
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mycars
+      Dependencies: {}
